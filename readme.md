@@ -1,0 +1,3 @@
+# Node.js RESTful API
+
+To import Book data into your mongoDB database. Make sure MongoDB is running then run 'mongo bookAPI < booksJson.js' from the command line.
