@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"genre"
+			],
+			[
+				"bookR",
+				"bookRouter"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"body",
+				"bodyParser〔variable〕"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"book",
+				"bookRouter〔variable〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"toy",
+				"toy_story"
+			],
+			[
+				"tra",
+				"trailer_youtube_url"
+			],
+			[
+				"story",
+				"storyline"
+			],
+			[
+				"mo",
+				"movie_storylone"
+			],
+			[
+				"mov",
+				"movie_title"
+			],
+			[
+				"c",
+				"connection"
+			],
+			[
+				"rea",
+				"read_text"
+			],
+			[
+				"b",
+				"blanked_word"
+			],
+			[
+				"pro",
+				"process_letter"
+			],
+			[
+				"ma",
+				"magicNumber"
+			],
+			[
+				"f",
+				"flight"
+			],
+			[
+				"me",
+				"message2"
+			],
+			[
+				"m",
+				"message1"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"form",
+				"formidable"
+			],
+			[
+				"fo",
+				"formidable"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"post",
+				"postDataChunk"
+			],
+			[
+				"poa",
+				"postDataChunk"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"e",
+				"exec"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"Post",
+				"PostSchema"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"spl",
+				"splitName"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"h",
+				"https"
+			],
+			[
+				"user",
+				"userId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"JSON",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 532.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nadiar/Desktop/ReST/readme.md",
+		"/home/nadiar/Desktop/ReST/app.js",
+		"/home/nadiar/Desktop/ReST/Routes/bookRoutes.js",
+		"/home/nadiar/Desktop/ReST/models/bookModel.js",
+		"/home/nadiar/Desktop/ReST/gulpfile.js",
+		"/home/nadiar/Desktop/ReST/package.json",
+		"/home/nadiar/Downloads/searchreplacedb2.php",
+		"/home/nadiar/Desktop/UPython/movie/entertainment_center.py",
+		"/home/nadiar/Desktop/UPython/movie/media.py",
+		"/home/nadiar/Downloads/media.py",
+		"/home/nadiar/Downloads/tab.html",
+		"/home/nadiar/Desktop/UPython/check_profanity.py",
+		"/home/nadiar/Desktop/UPython/movie_quotes.txt",
+		"/home/nadiar/Desktop/UPython/mindstroms.py",
+		"/home/nadiar/Desktop/UPython/oop.py",
+		"/home/nadiar/Desktop/UPython/shopping.py",
+		"/home/nadiar/Desktop/UPython/wordgames.py",
+		"/home/nadiar/Desktop/UPython/guess.py",
+		"/home/nadiar/Desktop/UPython/rename-files.py",
+		"/home/nadiar/Desktop/UPython/listen-music.py",
+		"/home/nadiar/Downloads/learning-programming-abstractions-python/2-learning-programming-abstractions-python-m2-exercise-files/excercises/after/wordgames.py",
+		"/home/nadiar/Desktop/UPython/linsten-music.py",
+		"/home/nadiar/Desktop/sublime/template-text-2.txt",
+		"/home/nadiar/Desktop/clojure-tutorial/README.md",
+		"/home/nadiar/Desktop/sublime/template-text-1.txt",
+		"/home/nadiar/Documents/clients.txt",
+		"/home/nadiar/Downloads/Dokumen Proposal Skripsi Semester Genap 2014-2015/deskripsi.txt",
+		"/home/nadiar/Downloads/laksani-com-1425109619-complete-2015-09-01-20-00-12/database-laksani-com-1425109619.sql",
+		"/home/nadiar/Downloads/processed-anggaran-jakarta-belanja-langsung-per-kegiatan.csv",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/05/flight/package.json",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/04/app.js",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/05/flight/index.js",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/04/flight/index.js",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/01/final/flight/index.js",
+		"/home/nadiar/Public/node-lynda-essential-training/chap04/01/final/app.js",
+		"/home/nadiar/Public/node-lynda-essential-training/airline/package.json",
+		"/home/nadiar/Public/node-lynda-essential-training/airline/index.js",
+		"/home/nadiar/Public/node-lynda-essential-training/server.js",
+		"/home/nadiar/Public/node-lynda-essential-training/package.json",
+		"/home/nadiar/Golang/first.go",
+		"/home/nadiar/Downloads/floating-adsense-bar/floating-adsense-bar.php",
+		"/home/nadiar/Downloads/floating-adsense-bar/fab_style.css",
+		"/home/nadiar/.bashrc",
+		"/home/nadiar/Golang/first/first.go",
+		"/home/nadiar/ProjectEuler/Clojure/hello-world.clj",
+		"/home/nadiar/ProjectEuler/Clojure/hello-world.java",
+		"/home/nadiar/Public/nodebasic/.gitignore",
+		"/home/nadiar/Public/nodebasic/package.json",
+		"/home/nadiar/Public/nodebasic/router.js",
+		"/home/nadiar/Public/nodebasic/requestHandlers.js",
+		"/home/nadiar/Public/nodebasic/server.js",
+		"/home/nadiar/Public/nodebasic/index.js",
+		"/home/nadiar/Clojure/test-app/project.clj",
+		"/home/nadiar/.config/sublime-text-2/Packages/User/SublimeREPL.sublime-settings",
+		"/home/nadiar/.config/sublime-text-2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/nadiar/Public/meanstack/package.json",
+		"/home/nadiar/Public/meanstack/config/express.js",
+		"/home/nadiar/Public/meanstack/app/routes/users.server.routes.js",
+		"/home/nadiar/Public/meanstack/app/controllers/users.server.controller.js",
+		"/home/nadiar/Public/meanstack/config/mongoose.js",
+		"/home/nadiar/Public/meanstack/app/models/user.server.model.js",
+		"/home/nadiar/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/nadiar/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true
+}
